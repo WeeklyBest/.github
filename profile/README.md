@@ -1,7 +1,7 @@
 # WeeklyBest
 
 <p align="center">
-    <a href="" target="_blank"><img src="../images/logo.png"></a>
+    <a href="" target="_blank"><img src="../images/logo.png" /></a>
 </p>
 
 ## 📝 Introduction
