@@ -1,7 +1,7 @@
 # WeeklyBest
 
 <p align="center">
-    <a href="" target="_blank"><img src="https://github.com/WeeklyBest/.github/raw/main/images/logo.png" /></a>
+    <a href="https://web-weeklybest-frontend-jvvy2blmeag4p5.sel5.cloudtype.app" target="_blank"><img src="https://github.com/WeeklyBest/.github/raw/main/images/logo.png" /></a>
 </p>
 
 ## 📝 Introduction
@@ -14,7 +14,7 @@ WeeklyBest 온라인 쇼핑몰입니다.
 
 ### 데모 페이지
 
-[👉 &nbsp;&nbsp;WeeklyBest Demo 페이지]('링크예정')<br>
+[👉 &nbsp;&nbsp;WeeklyBest Demo 페이지](https://web-weeklybest-frontend-jvvy2blmeag4p5.sel5.cloudtype.app)<br>
 
 ### ERD 문서
 
